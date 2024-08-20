@@ -7,7 +7,7 @@ from expense import Expense
 def main():
     print("🎯 Running Expense Tracker!")
     expense_file_path = "expenses.csv"
-    budget = 1600
+    budget = 8000
 
     # Get user input for expense.
     expense = get_user_expense()
