@@ -30,3 +30,5 @@ The final project will consist of 2 files:
 1. Create the `expense.py` class.
 2. Create the `expense_tracker.py` file and write the main logic for the app.
 3. Run the app to test it.
+   
+https://github.com/R0gg-K1d/project/blob/main/expense_tracker.py
